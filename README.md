@@ -1,4 +1,4 @@
-# elasticsearch-react-example
+# elasticsearch playground
 An example project showing how to use Elasticsearch with React
 
 ## Prerequisites
@@ -31,7 +31,3 @@ http.cors:
   ```
 
 4. Run webpack (or webpack-dev-server) to build the index.js source file.
-
-## Thanks
-
-Cheers to the [Angular Elasticsearch example](https://github.com/spalger/elasticsearch-angular-example) for describing how to setup http.cors. Thanks, [spalger](https://github.com/spalger)!
